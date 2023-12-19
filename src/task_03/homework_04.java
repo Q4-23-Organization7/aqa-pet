@@ -4,11 +4,11 @@ public class homework_04 {
 
     public static void main(String[] args) {
 
-        int sideA = 10;
+        int sideD = 100;
 
-        int sideB = 15;
+        int sideC = 150;
 
-        int square = (sideA * sideB) / 2;
+        int square = (sideD * sideC) / 2;
 
         System.out.println("Square of a rectangular triangle: " + square);
     }
