@@ -1,4 +1,4 @@
-package task_01;
+package hw_04.task_01;
 
 
 public class homework_04 {
