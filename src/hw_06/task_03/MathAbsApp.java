@@ -15,9 +15,9 @@ public class MathAbsApp {
         y = sc.nextInt();
 
         if ((x < 0) | (y < 0)) {
-            System.out.println("Result: " + (Math.abs(x) > Math.abs(y) ? x : y));
+            System.out.println("The biggest absolute number is: " + (Math.abs(x) > Math.abs(y) ? x : y));
         } else {
-            System.out.println("Result: " + Math.max(x, y));
+            System.out.println("The biggest absolute number is: " + Math.max(x, y));
         }
     }
 }
