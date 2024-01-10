@@ -1,4 +1,4 @@
-package hw_08;
+package task_01;
 
 public class UserTest {
 
