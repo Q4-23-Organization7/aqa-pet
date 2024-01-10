@@ -1,4 +1,6 @@
-package task_01;
+package hw_08.task_01;
+
+import hw_08.task_01.User;
 
 public class UserTest {
 

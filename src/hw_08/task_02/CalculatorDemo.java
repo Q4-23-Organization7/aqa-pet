@@ -1,4 +1,4 @@
-package task_02;
+package hw_08.task_02;
 
 public class CalculatorDemo {
 
